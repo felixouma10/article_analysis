@@ -53,7 +53,7 @@ Download the project files to your computer.
 Open your terminal and navigate to the folder containing the Python script and article file.
 
 ```bash
-cd path/to/Analyze-a-News-Article
+cd article_analysis
 ```
 
 ### 3. Run the program
